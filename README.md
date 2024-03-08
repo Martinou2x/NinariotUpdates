@@ -1,6 +1,6 @@
 # [<img src="https://ninario.fr/storage/img/nlogo.png" width="60"/>](https://ninario.fr/) Ninariot - Ninario's Minecraft Server Official Launcher
 
-![Launcher user interface](https://github.com/cempack/NinariotLauncher/assets/73651345/6b9b62a5-b800-450a-a932-18cc409d612a)
+![Launcher user interface](https://github.com/cempack/NinariotUpdates/assets/73651345/ff189db6-04aa-499f-ba45-0edae1137a34)
 
 **Author**: Elliot Moreau  
 **Contact**: [contact@elliotmoreau.fr](mailto:contact@elliotmoreau.fr)  
@@ -15,6 +15,8 @@ Ninariot is the official launcher for Ninario's Minecraft Server, providing a se
 - Electron
 - Minecraft Java Core
 - Electron Builder
+- Electron Updater
+- Discord.js RPC
 - SQLite3
 - JavaScript
 - HTML
