@@ -35,6 +35,7 @@ For any support or inquiries, please contact Elliot Moreau at [contact@elliotmor
 All rights reserved. Unauthorized use of the source code, including reproduction or distribution without prior authorization, is strictly prohibited. For any inquiries regarding the use of the code, please contact us at [contact@elliotmoreau.fr](mailto:contact@elliotmoreau.fr).
 
 ## Links
+**Discord**: https://discord.gg/bUtGTPtu2e
 
 - [Ninario's Website](https://ninario.fr)
 
