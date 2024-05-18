@@ -2,10 +2,6 @@
 
 ![Launcher user interface](https://github.com/cempack/NinariotUpdates/assets/73651345/ff189db6-04aa-499f-ba45-0edae1137a34)
 
-**Author**: Elliot Moreau  
-**Contact**: [contact@elliotmoreau.fr](mailto:contact@elliotmoreau.fr)  
-**Copyright**: Elliot Moreau. Unauthorized use of the source code, including reproduction or distribution without prior authorization, is strictly prohibited. For any inquiries regarding the use of the code, please contact us at the email address provided above.
-
 ## Description
 
 Ninariot is the official launcher for Ninario's Minecraft Server, providing a seamless experience for players to connect and play on the server. Built using Electron, it leverages technologies such as Minecraft Java Core and SQLite3, with JavaScript, HTML, and CSS for the frontend.
